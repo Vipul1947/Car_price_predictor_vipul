@@ -27,6 +27,8 @@ The dataset used for training and evaluating the model: (https://github.com/Vipu
 <br>
 <h2> FLOW CHART </h2>
 
+![WhatsApp Image 2021-10-17 at 18 53 32](https://user-images.githubusercontent.com/56962974/137629251-286e867d-22e1-4cdf-8526-6a6eb03f9c1f.jpeg)
+
 <br>
 <h2> Dependencies</h2>
 
